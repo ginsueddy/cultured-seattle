@@ -1,0 +1,25 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.custom-field {
+    font-size: 14px;
+    position: relative;
+}
+
+.custom-field input {
+    -webkit-appearance: none;
+    -ms-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: white;
+    border: 1.5px solid #C7CBC7;
+    padding: 12px;
+    border-radius: 30px;
+    width: 350px;
+    font-size: 18px;
+    font-family: 'Outfit';
+    font-weight: 300;
+    margin-top: 8px;
+}
+  
