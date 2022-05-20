@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cultured-seattle/static/css/main.073c9b0a.css",
+    "main.js": "/cultured-seattle/static/js/main.fe760e57.js",
+    "static/js/787.c19f31a4.chunk.js": "/cultured-seattle/static/js/787.c19f31a4.chunk.js",
+    "static/media/logo.svg": "/cultured-seattle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cultured-seattle/index.html",
+    "main.073c9b0a.css.map": "/cultured-seattle/static/css/main.073c9b0a.css.map",
+    "main.fe760e57.js.map": "/cultured-seattle/static/js/main.fe760e57.js.map",
+    "787.c19f31a4.chunk.js.map": "/cultured-seattle/static/js/787.c19f31a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fe760e57.js"
+  ]
+}
