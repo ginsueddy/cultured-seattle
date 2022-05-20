@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/cultured-seattle/static/css/main.073c9b0a.css",
-    "main.js": "/cultured-seattle/static/js/main.fe760e57.js",
+    "main.css": "/cultured-seattle/static/css/main.8e7d49c3.css",
+    "main.js": "/cultured-seattle/static/js/main.62f86ddc.js",
     "static/js/787.c19f31a4.chunk.js": "/cultured-seattle/static/js/787.c19f31a4.chunk.js",
-    "static/media/logo.svg": "/cultured-seattle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/food.png": "/cultured-seattle/static/media/food.c6ea04643640d632a0d9.png",
+    "static/media/park.png": "/cultured-seattle/static/media/park.52119a06afe586fa841a.png",
+    "static/media/disco.png": "/cultured-seattle/static/media/disco.30b997e66648535843c2.png",
+    "static/media/el.png": "/cultured-seattle/static/media/el.6f10800d9b45e92462bf.png",
+    "static/media/vin.png": "/cultured-seattle/static/media/vin.d5774275d57b54737535.png",
+    "static/media/liv.png": "/cultured-seattle/static/media/liv.64b74f2682259fdb7e6b.png",
     "index.html": "/cultured-seattle/index.html",
-    "main.073c9b0a.css.map": "/cultured-seattle/static/css/main.073c9b0a.css.map",
-    "main.fe760e57.js.map": "/cultured-seattle/static/js/main.fe760e57.js.map",
+    "main.8e7d49c3.css.map": "/cultured-seattle/static/css/main.8e7d49c3.css.map",
+    "main.62f86ddc.js.map": "/cultured-seattle/static/js/main.62f86ddc.js.map",
     "787.c19f31a4.chunk.js.map": "/cultured-seattle/static/js/787.c19f31a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fe760e57.js"
+    "static/css/main.8e7d49c3.css",
+    "static/js/main.62f86ddc.js"
   ]
 }
